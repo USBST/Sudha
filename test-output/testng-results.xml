@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="3" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-17T07:08:05 IST" name="Default suite" finished-at="2023-05-17T07:09:39 IST" duration-ms="94511">
+    <groups>
+    </groups>
+    <test started-at="2023-05-17T07:08:05 IST" name="Default test" finished-at="2023-05-17T07:09:39 IST" duration-ms="94511">
+      <class name="testngpgms.Alertwindowspgm">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:testngpgms.Alertwindowspgm@201a4587]" started-at="2023-05-17T07:08:05 IST" name="beforeTest" finished-at="2023-05-17T07:08:30 IST" duration-ms="25434" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="alertEntertextandokorcancle()[pri:0, instance:testngpgms.Alertwindowspgm@201a4587]" started-at="2023-05-17T07:08:30 IST" name="alertEntertextandokorcancle" finished-at="2023-05-17T07:09:28 IST" duration-ms="57821" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- alertEntertextandokorcancle -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:testngpgms.Alertwindowspgm@201a4587]" started-at="2023-05-17T07:09:28 IST" name="afterTest" finished-at="2023-05-17T07:09:39 IST" duration-ms="10860" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- testngpgms.Alertwindowspgm -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
